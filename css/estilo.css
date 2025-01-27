@@ -8,6 +8,11 @@ h2{
     color: #4b566a;
 }
 
+h4{
+    text-transform: uppercase;
+    color: #4b566a;
+}
+
 #principal {
     width: 900px;
     margin: auto;
@@ -46,4 +51,20 @@ h1 {
 
 .contatoab{
     padding: 2px;
+}
+
+.sub-title {
+    font-style: italic;
+}
+
+ul{
+    text-decoration: none;
+    list-style: none;
+    margin-top: 0;
+    margin-bottom: 5px;
+    padding: 0;
+}
+
+li{
+    padding: 5px;
 }
